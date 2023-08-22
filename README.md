@@ -9,18 +9,18 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
-<td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
-<td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
-<td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
-<td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
+<td align="center"><a href="https://github.com/heondeam"><img src="https://avatars.githubusercontent.com/u/128656530?v=4" width="100px" /></a></td>
+<td align="center"><a href="https://github.com/doragimoochim"><img src="https://avatars.githubusercontent.com/u/129679381?v=4" width="100px" /></a></td>
+<td align="center"><a href="https://github.com/YongHyunKing"><img src="https://avatars.githubusercontent.com/u/99469068?v=4" width="100px" /></a></td>
+<td align="center"><a href="https://github.com/KimCookieYa"><img src="https://avatars.githubusercontent.com/u/45006957?v=4" width="100px" /></a></td>
 <td align="center"><a href="https://github.com/DI-Kim"><img src="https://avatars.githubusercontent.com/u/43124902?v=4" width="100px" /></a></td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/Riudiu"><b>윤지우</b></a></td>
-  <td align="center"><a href=""><b>윤지우</b></a></td>
-  <td align="center"><a href=""><b>윤지우</b></a></td>
-  <td align="center"><a href=""><b>윤지우</b></a></td>
-  <td align="center"><a href=""><b>윤지우</b></a></td>
+  <td align="center"><a href="https://github.com/heondeam"><b>이성헌</b></a></td>
+  <td align="center"><a href="https://github.com/doragimoochim"><b>이지현</b></a></td>
+  <td align="center"><a href="https://github.com/YongHyunKing"><b>김용현</b></a></td>
+  <td align="center"><a href="https://github.com/KimCookieYa"><b>김민석</b></a></td>
   <td align="center"><a href="https://github.com/DI-Kim"><b>김대인</b></a></td>
 </tr>
 </table>
@@ -35,9 +35,13 @@
 
 <br>
 
-## 👾 Commit Convention
+## 👾 Git Convention
 
--
+- **Commit** : `Add : (free)`
+  - **Commit Message Title** : `Add`, `Update`, `Delete`
+  - 커밋 용도에 따라 타이틀만 다르게, 메시지 내용은 자유롭게
+- **Pull Request** : `Add : (free)`
+  - Commit Convention과 동일
 
 <br>
 
