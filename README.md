@@ -13,7 +13,7 @@
 <td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
 <td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
 <td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
-<td align="center"><a href="https://github.com/Riudiu"><img src="https://avatars.githubusercontent.com/u/86466976?v=4" width="100px" /></a></td>
+<td align="center"><a href="https://github.com/DI-Kim"><img src="https://avatars.githubusercontent.com/u/43124902?v=4" width="100px" /></a></td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/Riudiu"><b>윤지우</b></a></td>
@@ -21,7 +21,7 @@
   <td align="center"><a href=""><b>윤지우</b></a></td>
   <td align="center"><a href=""><b>윤지우</b></a></td>
   <td align="center"><a href=""><b>윤지우</b></a></td>
-  <td align="center"><a href=""><b>윤지우</b></a></td>
+  <td align="center"><a href="https://github.com/DI-Kim"><b>김대인</b></a></td>
 </tr>
 </table>
 
