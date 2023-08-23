@@ -31,17 +31,16 @@
 
 - 매주 `화, 목, 일` 에 모여서 스터디를 진행합니다.
 - 스터디가 끝나면 다음 공부 주제와 범위를 정하고, 각자 공부해옵니다.
-- 한 명씩 돌아가면서 발표 형식으로 스터디를 주도합니다.
+- 알고리즘은 한번 모일 때마다 3~4 문제씩 풀어오며, 각자 풀이를 공유합니다.
+- 딥다이브와 리액트는 한번 모일 때마다 모두 6개의 주제를 한 명씩 돌아가면서 발표하는 방식입니다.
 
 <br>
 
 ## 👾 Git Convention
 
-- **Commit** : `Add : (free)`
+- **Commit** : `Add (free)`
   - **Commit Message Title** : `Add`, `Update`, `Delete`
   - 커밋 용도에 따라 타이틀만 다르게, 메시지 내용은 자유롭게
-- **Pull Request** : `Add : (free)`
-  - Commit Convention과 동일
 
 <br>
 
@@ -57,12 +56,19 @@
 
 | **Chapter** | **Title**                                                                                                                                                                                                  |
 | :---------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **CH.04**  | [📚 변수](https://github.com/Riudiu/jungle-frontend-study/tree/master/deepdive/CH04.%20%EB%B3%80%EC%88%98)                                                                                                 |
-|  **CH.05**  | [📚 표현식과 문](https://github.com/Riudiu/jungle-frontend-study/tree/master/deepdive/CH05.%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8)                                                            |
-|  **CH.38**  | [📚 브라우저의 렌더링 과정](https://github.com/Riudiu/jungle-frontend-study/tree/master/deepdive/CH38.%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95) |
+|  **CH.04**  | [📚 변수](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH04_%EB%B3%80%EC%88%98.md)                                                                                                 |
+|  **CH.05**  | [📚 표현식과 문](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH05_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)                                                            |
+|  **CH.06**  | [📚 데이터 타입]()                                                                                                                                                                                         |
+|  **CH.06**  | [📚 연산자]()                                                                                                                                                                                              |
+|  **CH.38**  | [📚 브라우저의 렌더링 과정](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH38_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md) |
+|  **CH.39**  | [📚 DOM]()                                                                                                                                                                                                 |
 
 <br>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px" /> React
 
 > 리액트 공식 문서를 기반으로 내용을 정리합니다.
+
+### UI 구성하기
+
+- [첫번째 컴포넌트](https://github.com/Riudiu/jungle-frontend-study/blob/master/react/%EC%B2%AB%EB%B2%88%EC%A7%B8_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
