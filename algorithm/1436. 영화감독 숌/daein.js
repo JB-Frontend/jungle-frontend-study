@@ -16,4 +16,4 @@ while (tripleSixArrray.length !== inputValue) {
 }
 
 // console.log(iString);
-console.log(tripleSixArrray[inputValue - 1]);
+console.log(tripleSixArrray[tripleSixArrray.length - 1]);
