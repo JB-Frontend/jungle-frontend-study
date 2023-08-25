@@ -58,7 +58,9 @@
 |  **CH.04**  | [📚 변수](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH04_%EB%B3%80%EC%88%98.md)                                                                                                 |
 |  **CH.05**  | [📚 표현식과 문](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH05_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)                                                            |
 |  **CH.06**  | [📚 데이터 타입]()                                                                                                                                                                                         |
-|  **CH.07**  | [📚 연산자]()                                                                                                                                                                                              |
+|  **CH.07**  | [📚 연산자](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/deepdive/CH07_%EC%97%B0%EC%82%B0%EC%9E%90.md)                                                                                 |
+|  **CH.08**  | [📚 제어문]()                                                                                                                                                                                              |
+|  **CH.09**  | [📚 타입 변환과 단축 평가]()                                                                                                                                                                               |
 |  **CH.38**  | [📚 브라우저의 렌더링 과정](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH38_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md) |
 |  **CH.39**  | [📚 DOM]()                                                                                                                                                                                                 |
 
@@ -70,4 +72,4 @@
 
 ### UI 구성하기
 
-- [Your First Component](https://github.com/Riudiu/jungle-frontend-study/blob/master/react/%EC%B2%AB%EB%B2%88%EC%A7%B8_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [Your First Component](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Your%20First%20Component.md)
