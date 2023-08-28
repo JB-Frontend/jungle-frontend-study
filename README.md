@@ -59,7 +59,7 @@
 |  **CH.05**  | [📚 표현식과 문](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH05_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)                                                            |
 |  **CH.06**  | [📚 데이터 타입]()                                                                                                                                                                                         |
 |  **CH.07**  | [📚 연산자](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/deepdive/CH07_%EC%97%B0%EC%82%B0%EC%9E%90.md)                                                                                 |
-|  **CH.08**  | [📚 제어문]()                                                                                                                                                                                              |
+|  **CH.08**  | [📚 제어문](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/deepdive/CH08_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)                                                                                 |
 |  **CH.09**  | [📚 타입 변환과 단축 평가]()                                                                                                                                                                               |
 |  **CH.38**  | [📚 브라우저의 렌더링 과정](https://github.com/Riudiu/jungle-frontend-study/blob/master/deepdive/CH38_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95.md) |
 |  **CH.39**  | [📚 DOM]()                                                                                                                                                                                                 |
@@ -73,3 +73,13 @@
 ### UI 구성하기
 
 - [Your First Component](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Your%20First%20Component.md)
+
+- [Importing and Exporting Components](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Importing%20and%20Exporting%20Components.md)
+
+- [Writing Markup with JSX](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Writing%20Markup%20with%20JSX.md)
+
+- [JavaScript in JSX with Curly Braces]()
+
+- [Passing Props to a Component](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Passing%20Props%20to%20a%20Component.md)
+
+- [Conditional Rendering](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Conditional%20Rendering.md)
