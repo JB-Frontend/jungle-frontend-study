@@ -69,7 +69,7 @@ export default function Button() {
 더 간결하게 화살표 함수를 사용할 수도 있습니다:
 
 ```javascript
-<button onClick={function handleClick() {
+<button onClick={() => {
   alert('You clicked me!');
 }}>
 ```
