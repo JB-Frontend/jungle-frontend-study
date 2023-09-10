@@ -45,9 +45,11 @@
 
 ## 💡 JS Algorithm
 
-| **Day**  | **문제**                                                                                                                                                                                                                                                                |
-| :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **8/22** | [`1436 영화감독 숌`](https://www.acmicpc.net/problem/1436), [`1963 소수 경로`](https://www.acmicpc.net/problem/1963), [`1062 가르침`](https://www.acmicpc.net/problem/1062), [`Lv.1 같은 숫자는 싫어`](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
+| **Day**  | **문제**                                                                                                                                                                                                                                                                         |
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **8/22** | [`1436 영화감독 숌`](https://www.acmicpc.net/problem/1436), [`1963 소수 경로`](https://www.acmicpc.net/problem/1963), [`1062 가르침`](https://www.acmicpc.net/problem/1062), [`Lv.1 같은 숫자는 싫어`](https://school.programmers.co.kr/learn/courses/30/lessons/12906)          |
+| **8/31** | [`Lv.1 문자열 나누기`](https://school.programmers.co.kr/learn/courses/30/lessons/140108), [`Lv.2 연속된 부분 수열의 합`](https://school.programmers.co.kr/learn/courses/30/lessons/178870), [`Lv.2 귤 고르기`](https://school.programmers.co.kr/learn/courses/30/lessons/138476) |
+| **9/3**  | [`Lv.1 둘만의 암호`](https://school.programmers.co.kr/learn/courses/30/lessons/155652), [`Lv.2 뒤에 있는 큰 수 찾기`](https://school.programmers.co.kr/learn/courses/30/lessons/154539), [`Lv.2 택배상자`](https://school.programmers.co.kr/learn/courses/30/lessons/131704)     |
 
 <br>
  
@@ -78,8 +80,16 @@
 
 - [Writing Markup with JSX](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Writing%20Markup%20with%20JSX.md)
 
-- [JavaScript in JSX with Curly Braces]()
+- [JavaScript in JSX with Curly Braces](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/JavaScript%20in%20JSX%20with%20Curly%20Braces.md)
 
 - [Passing Props to a Component](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Passing%20Props%20to%20a%20Component.md)
 
 - [Conditional Rendering](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Conditional%20Rendering.md)
+
+- [Rendering Lists]()
+
+- [Keeping Components Pure](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Keeping%20Components%20Pure.md)
+
+### 상호작용 추가하기
+
+- [Responding to Events](https://github.com/JB-Frontend/jungle-frontend-study/blob/master/react/Responding%20to%20Events.md)
